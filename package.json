@@ -1,13 +1,13 @@
 {
     "name": "print-current-time",
-    "version": "1.0.2-a",
+    "version": "1.0.3-c",
     "description": "A very simple node js package to print time. Just to use to understand publishing module to npm repository.",
     "main": "app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "print-current-time": "./printCurrentTime.js"
+        "print-current-time": "./bin/printCurrentTime.js"
     },
     "repository": {
         "type": "git",
